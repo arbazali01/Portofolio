@@ -1,0 +1,70 @@
+body{
+  margin: 0;
+}
+.header{
+  background-color: #FEFBF3;
+  height: 100px;
+}
+h1,h2{
+  margin: 0;
+  text-align: center;
+  line-height: 100px;
+  font-family: 'Merienda', cursive;
+}
+h3,p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.brand{
+  width: 40%;
+  height: 100px;
+  float: left;
+  text-align: center;
+}
+.contents{
+  width: 60%;
+  height: 100px;
+  float: right;
+  text-align: center;
+}
+.nav-item{
+  margin: 0 15px;
+  color: #000000;
+  text-decoration: none;
+  line-height: 100px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.profilePic{
+  width: 60%;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.coding{
+  width: 40%;
+}
+
+.conclusion{
+  margin:  0;
+  padding: 10px;
+}
+.part{
+  background-color: #F8F0DF;
+}
+.clg{
+  width:100%;
+  text-align: center;
+  }
+  .college{
+    margin: 0;
+    color: #150050;
+  }
+.footer{
+  background-color: #4A403A;
+  color: #ffffff;
+  text-align: center;
+
+}
